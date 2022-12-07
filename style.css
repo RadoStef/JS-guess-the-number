@@ -1,0 +1,135 @@
+body {
+    margin: 0;
+    background-color: #333333;
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 99.5vh;
+    border: 2px solid white;
+}
+
+header {
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-bottom: 150px;
+}
+
+main {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.top-header {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.heading {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-color: 1px solid black;
+}
+
+.number {
+    background-color: rgb(29, 29, 23);
+    border: 1px solid rgba(158, 137, 137, 0.425);
+    color: white;
+    padding: 40px;
+    margin-bottom: -55px;
+    font-size: 25px;
+    border-radius: 3px;
+    width: 250px;
+    height: 80px;
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+
+button {
+    color: black;
+    padding: 10px;
+    width: 200px;
+    font-size: 15px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+input {
+    border: none;
+    background-color: rgb(29, 29, 23);
+    height: 40px;
+    margin-right: 30px;
+    color: white;
+    padding: 0 10px;
+}
+
+input:focus {
+    border: none;
+}
+
+.message {
+    color: black;
+    margin-top: 1px;
+}
+
+.left {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.right {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+    flex-direction: column;
+}
+
+.message {
+    color: white;
+    font-size: 22px;
+}
+
+.hint {
+    background-color: chartreuse;
+    opacity: 0.5;
+}
+
+.hint:hover {
+    opacity: 1;
+    transition: all 0.7s;
+}
+
+.between {
+    color: yellow;
+}
+
+.local-storage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.save {
+    margin-right: 20px;
+}
+.load {
+    margin-left: 20px;
+}
