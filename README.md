@@ -8,6 +8,6 @@
 </ul>
 <hr>
 <p> The game code will be improved. There are some small thing on the code and css that I have to fix.</p>
-<p> At this moment it is what it is 🤸‍♀️. Have fun reading reading the code, or playing the game! ☺</p>
+<p> At this moment it is what it is 🤸‍♀️. Have fun reading the code, or playing the game! ☺</p>
 <hr>
 <p> Play and enjoy on the following link: https://sitefocus.eu/radoslav/guess/ </p>
